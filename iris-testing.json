@@ -1,0 +1,23 @@
+﻿[
+  {
+    "cough": 3.7,
+    "dyspnoea": 1,
+    "sputum": 1.3,
+    "chestpain": 1,
+    "diagnosis": "cold"
+  },
+  {
+    "cough": 4.5,
+    "dyspnoea": 2.4,
+    "sputum": 3.8,
+    "chestpain": 1.1,
+    "diagnosis": "pneumonia"
+  },
+  {
+    "cough": 1.8,
+    "dyspnoea": 4.2,
+    "sputum": 1.9,
+    "chestpain": 1.3,
+    "diagnosis": "lungCancer"
+  }
+]
